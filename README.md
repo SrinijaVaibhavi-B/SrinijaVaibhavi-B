@@ -76,9 +76,47 @@
 </p>
 
 
+### Looking for an engineer who ships, adapts, and owns?
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="840" valign="top">
+      <blockquote>
+        I bring <b>4+ years of full-stack and AI engineering</b> across Fortune 500 environments, three cloud certifications, a <b>4.0 master's degree</b>, and a track record of doing more than what's asked every single time.
+        <br /><br />
+        I'm not looking for a job. I'm looking for a <b>problem worth solving</b> and a team worth building with.
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
----
+### 🎯 What I'm Building Toward
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="410" valign="top">
+      <h3>⚡ 5 Years</h3>
+      <p>Be a core engineer on the team that builds AI agents <b>millions of people depend on daily</b>. Not a demo. Not a proof of concept. A real, shipped, trusted product that changes how people live and work.</p>
+    </td>
+    <td width="30"></td>
+    <td width="410" valign="top">
+      <h3>🏢 10 Years</h3>
+      <p>Run my own company. Everything I'm building right now, the engineering depth, the AI expertise, the systems thinking, is runway. The destination was always to <b>build something of my own</b>.</p>
+    </td>
+  </tr>
+</table>
+ 
 
+ 
+💬 Let's Connect
+<p align="left">
+  <a href="mailto:srinijavabhavi.b@gmail.com">
+    <img src="https://img.shields.io/badge/Email-srinijavabhavi.b@gmail.com-E8593C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+  </a>
+</p>
+ 
 <div align="center">
-  <p>👨‍💻 <i>"Let's build something intelligent today."</i></p>
+  <sub>
+    <b>I moved to a new country, learned a new system, earned three cloud certifications, completed a master's degree with a 4.0, and shipped production AI agents all at the same time.</b><br/>
+    That's not a resume line. That's a survival story. And it's the reason I can walk into any team, any stack, any problem domain and make it work. Not because I was handed an easy path, but because I built the skills to navigate any path.<br/><br/>
+    <i>— Srinija Vaibhavi Boggavarapu · Software Engineer · Dallas, TX</i>
+  </sub>
 </div>
