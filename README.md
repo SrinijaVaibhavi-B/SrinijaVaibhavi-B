@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="White Minimalist Simple Aesthetic Name Twitter Header (5).png" width="650" alt="Welcome Logo" />
+  <img src="White Minimalist Simple Aesthetic Name Twitter Header (3).png" width="650" alt="Welcome Logo" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;AI+Agents+Specialist;Cloud+Solutions+Architect" alt="Typing SVG" />
 </p>
 
