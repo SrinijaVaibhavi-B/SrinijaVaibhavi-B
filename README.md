@@ -30,7 +30,7 @@
       <p align="center">
         <!-- AWS Solutions Architect – Professional -->
         <a href="https://www.credly.com/badges/615fe3c3-ea7f-47e5-8e54-8064db540e21/public_url" target="_blank">
-          <img src="AWSSA.png" width="90%" alt="AWS Solutions Architect Professional" />
+          <img src="0_WN1yxw4ekEwhf_JM.png" width="90%" alt="AWS Solutions Architect Professional" />
         </a>
         <br /><br />
         
