@@ -81,31 +81,7 @@
   </a>
 </p>
 
-&nbsp;
 
----
-
-&nbsp;
-
-## 📊 Performance & Commit Insights
-
-<table border="0">
-  <tr>
-    <td width="440" valign="top">
-      <h4>💡 Language Breakdown</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrinijaVaibhavi-B&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-    <td width="440" valign="top">
-      <h4>🔥 Contribution Streak</h4>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrinijaVaibhavi-B&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
-    </td>
-  </tr>
-</table>
-
-### 🌊 Development Velocity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrinijaVaibhavi-B&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Waveform" />
-</p>
 
 ---
 
