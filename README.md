@@ -28,14 +28,22 @@
     <td width="45%" valign="top" align="center">
       <h3>🏅 Cloud Credentials</h3>
       <p align="center">
-        <!-- AWS SAP Badge -->
-        <img src="https://img.shields.io/badge/AWS_SAP-Solutions_Architect_Professional-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" width="90%" alt="AWS Solutions Architect Professional" />
-        <br />
-        <!-- AWS DVA Badge -->
-        <img src="https://img.shields.io/badge/AWS_DVA-Developer_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" width="90%" alt="AWS Developer Associate" />
-        <br />
-        <!-- Azure AI Engineer Badge -->
-        <img src="https://img.shields.io/badge/Azure_AI_102-AI_Engineer_Associate-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" width="90%" alt="Azure AI Engineer Associate" />
+        <!-- AWS Solutions Architect – Professional -->
+        <a href="AWS SA" target="_blank">
+          <img src="aws-sap-badge.png" width="90%" alt="AWS Solutions Architect Professional" />
+        </a>
+        <br /><br />
+        
+        <!-- AWS Developer – Associate -->
+        <a href="AWS DA" target="_blank">
+          <img src="aws-dva-badge.png" width="90%" alt="AWS Developer Associate" />
+        </a>
+        <br /><br />
+        
+        <!-- Azure AI Engineer Associate -->
+        <a href="microsoft" target="_blank">
+          <img src="azure-ai-badge.png" width="90%" alt="Azure AI Engineer Associate" />
+        </a>
       </p>
       <br />
       <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="Stats Card" />
