@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="SVlogo.jpeg" width="320" alt="Welcome Logo" />
+  <img src="Welcome to Class Google Classroom Header Black Pink Checkered Style.png" width="950" alt="Welcome Logo" />
 </p>
 <p align="center">
-  <img src="SVlogo.jpeg" width="320" alt="Srinija Vaibhavi Logo" />
+  <img src="SVlogo.jpeg" width="220" alt="Srinija Vaibhavi Logo" />
 </p>
 
 <p align="center">
