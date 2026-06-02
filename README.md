@@ -43,12 +43,6 @@
   </tr>
 </table>
 
-&nbsp;
-
----
-
-&nbsp;
-
 ## 🛠️ Comprehensive Tech Stack
 
 ### 🧠 Artificial Intelligence & Agentic Frameworks
