@@ -40,39 +40,108 @@
   </tr>
 </table>
 
-## 🛠️ Comprehensive Tech Stack
-
-### 🧠 Artificial Intelligence & Agentic Frameworks
+### 🛠️ Tech Stack
+💬 Languages
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI Core" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
+</p>
+🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,html,css,figma,vite&theme=dark" />
+</p>
+⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,flask,fastapi,django,nodejs,express&theme=dark" />
+</p>
+🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,redis&theme=dark" />
 </p>
 
-![LangChain](https://img.shields.io/badge/LangChain-⚡-green?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-🦙-blue?style=flat-square)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-🤖-purple?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-Orchestration-orange?style=flat-square)
-
-### 🌐 Frontend & User Interfaces
+### 🧠 AI & Agentic Engineering
+ 
+> Building intelligent systems end-to-end — from orchestration frameworks and multi-agent pipelines to RAG, vector memory, MCP tooling, and production observability. Not just using agents. **Building them.**
+ 
+&nbsp;
+ 
+### 🔗 Orchestration Frameworks
+*Hands-on production experience — not just demos*
+ 
+![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent_Pipelines-E8593C?style=flat-square&labelColor=1a1a1a)
+![LangChain](https://img.shields.io/badge/LangChain-Orchestration-E8593C?style=flat-square&labelColor=1a1a1a)
+![CrewAI](https://img.shields.io/badge/CrewAI-Role--Based_Agents-E8593C?style=flat-square&labelColor=1a1a1a)
+![AutoGen](https://img.shields.io/badge/AutoGen-Conversational_Agents-E8593C?style=flat-square&labelColor=1a1a1a)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Data_Framework-E8593C?style=flat-square&labelColor=1a1a1a)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-Microsoft_SDK-E8593C?style=flat-square&labelColor=1a1a1a)
+![Haystack](https://img.shields.io/badge/Haystack-Pipeline_Framework-E8593C?style=flat-square&labelColor=1a1a1a)
+![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-Structured_Agents-E8593C?style=flat-square&labelColor=1a1a1a)
+ 
+&nbsp;
+ 
+### 🔌 Protocols & Interoperability
+*The new standard layer for production agent systems*
+ 
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6C63D6?style=flat-square&labelColor=1a1a1a)
+![A2A](https://img.shields.io/badge/A2A-Agent_to_Agent_(Google)-6C63D6?style=flat-square&labelColor=1a1a1a)
+![Function Calling](https://img.shields.io/badge/Tool_Use-Function_Calling-6C63D6?style=flat-square&labelColor=1a1a1a)
+![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-JSON_Mode-6C63D6?style=flat-square&labelColor=1a1a1a)
+![Assistants API](https://img.shields.io/badge/OpenAI_Assistants_API-Threads_%26_Tools-6C63D6?style=flat-square&labelColor=1a1a1a)
+ 
+&nbsp;
+ 
+### 🧩 RAG & Memory Architecture
+*Memory as a first-class architectural primitive — not an afterthought*
+ 
+![RAG](https://img.shields.io/badge/RAG_Pipelines-Retrieval_Augmented_Gen-185FA5?style=flat-square&labelColor=1a1a1a)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-Knowledge_Graph_RAG-185FA5?style=flat-square&labelColor=1a1a1a)
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-Vector_Search-185FA5?style=flat-square&labelColor=1a1a1a)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-185FA5?style=flat-square&labelColor=1a1a1a)
+![Weaviate](https://img.shields.io/badge/Weaviate-Vector_DB-185FA5?style=flat-square&labelColor=1a1a1a)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-185FA5?style=flat-square&labelColor=1a1a1a)
+![pgvector](https://img.shields.io/badge/pgvector-Postgres_Vector-185FA5?style=flat-square&labelColor=1a1a1a)
+![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-Semantic_%2B_Keyword-185FA5?style=flat-square&labelColor=1a1a1a)
+![Semantic Chunking](https://img.shields.io/badge/Semantic_Chunking-Document_Processing-185FA5?style=flat-square&labelColor=1a1a1a)
+![Embedding Models](https://img.shields.io/badge/Embedding_Models-OpenAI_%2F_Azure-185FA5?style=flat-square&labelColor=1a1a1a)
+ 
+&nbsp;
+ 
+### 🤖 LLM APIs & Model Providers
+ 
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-Enterprise-3B6D11?style=flat-square&labelColor=1a1a1a)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-GPT_4o_%2F_o1-3B6D11?style=flat-square&labelColor=1a1a1a)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-API-3B6D11?style=flat-square&labelColor=1a1a1a)
+![Gemini](https://img.shields.io/badge/Google_Gemini-Enterprise-3B6D11?style=flat-square&labelColor=1a1a1a)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-OSS_Models-3B6D11?style=flat-square&labelColor=1a1a1a)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-3B6D11?style=flat-square&labelColor=1a1a1a)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-System_Design-3B6D11?style=flat-square&labelColor=1a1a1a)
+ 
+&nbsp;
+ 
+### 📊 Observability, Evaluation & AgentOps
+*One of the fastest-growing 2026 hiring needs — shipping agents that can be monitored, evaluated, and improved*
+ 
+![MLflow](https://img.shields.io/badge/MLflow-Experiment_Tracking-854F0B?style=flat-square&labelColor=1a1a1a)
+![LangSmith](https://img.shields.io/badge/LangSmith-Agent_Tracing-854F0B?style=flat-square&labelColor=1a1a1a)
+![AgentOps](https://img.shields.io/badge/AgentOps-Session_Monitoring-854F0B?style=flat-square&labelColor=1a1a1a)
+![Ragas](https://img.shields.io/badge/Ragas-RAG_Evaluation-854F0B?style=flat-square&labelColor=1a1a1a)
+![HITL](https://img.shields.io/badge/HITL-Human_in_the_Loop-854F0B?style=flat-square&labelColor=1a1a1a)
+![Tracing](https://img.shields.io/badge/Distributed_Tracing-Observability-854F0B?style=flat-square&labelColor=1a1a1a)
+ 
+&nbsp;
+ 
+### ⚡ Platforms & Enterprise Tooling
+ 
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-Agent_Builder-555?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-Model_Hub-555?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-Managed_LLMs-555?style=flat-square&logo=amazonaws&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-Google_Cloud-555?style=flat-square&logo=googlecloud&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-Workflow_AI-555?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Automation-555?style=flat-square)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+ 
+☁️ Cloud & DevOps
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,angular,js,html,css,vite,tailwind,figma&perline=9" alt="Frontend Stack" />
-  </a>
-</p>
-
-### ⚙️ Backend & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,postgres,mongodb,redis&perline=9" alt="Backend Stack" />
-  </a>
-</p>
-
-### ☁️ Cloud & DevOps Infrastructure
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,linux,nginx&perline=9" alt="Cloud and DevOps" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,linux,nginx&theme=dark" />
 </p>
 
 
