@@ -29,19 +29,19 @@
       <h3>🏅 Cloud Credentials</h3>
       <p align="center">
         <!-- AWS Solutions Architect – Professional -->
-        <a href="AWS SA" target="_blank">
+        <a href="https://www.credly.com/badges/615fe3c3-ea7f-47e5-8e54-8064db540e21/public_url" target="_blank">
           <img src="aws-sap-badge.png" width="90%" alt="AWS Solutions Architect Professional" />
         </a>
         <br /><br />
         
         <!-- AWS Developer – Associate -->
-        <a href="AWS DA" target="_blank">
+        <a href="https://www.credly.com/badges/e30aac93-117f-49cf-b183-69cccd4daefe/public_url" target="_blank">
           <img src="aws-dva-badge.png" width="90%" alt="AWS Developer Associate" />
         </a>
         <br /><br />
         
         <!-- Azure AI Engineer Associate -->
-        <a href="microsoft" target="_blank">
+        <a href="https://learn.microsoft.com/api/credentials/share/en-gb/SrinijaVaibhaviBoggavarapu-7271/11BAF18E12DBD84E?sharingId=F8CDC6459DD7DB81" target="_blank">
           <img src="azure-ai-badge.png" width="90%" alt="Azure AI Engineer Associate" />
         </a>
       </p>
