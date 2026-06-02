@@ -1,6 +1,6 @@
 <!-- BRANDING LOGO -->
 <p align="center">
-  <img src="" width="320" alt="Srinija Vaibhavi Logo" />
+  <img src="logo.jpeg" width="320" alt="Srinija Vaibhavi Logo" />
 </p>
 
 <!-- ANIMATION HEADER -->
