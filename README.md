@@ -5,7 +5,7 @@
 
 <!-- ANIMATION HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;AI+Agents+Specialist;Cloud+Solutions+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C9510C&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;AI+Agents+Specialist;Cloud+Solutions+Architect" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,13 +14,15 @@
 <div>
   <!-- LEFT COLUMN: ABOUT ME -->
   <div style="float: left; width: 58%; min-width: 300px;">
-    <h2>🚀 About Me</h2>
-    <p>I am a <b>developer at heart</b> driven by a singular mission: building production-ready AI applications and practical tools that real users love interacting with.</p>
-    <p>I blend deep frontend expertise with robust backend infrastructures, cloud architecture, and modern AI orchestration. I love <b>"vibe coding" with advanced AI tools</b> to rapidly prototype, iterate at lightning speed, and push the boundaries of what a single developer can build.</p>
+    <h2>🚀 Who I Am</h2>
+    <p>I am a <b>Software Engineer with 3+ years of experience</b> building robust, end-to-end full-stack applications. Over the past year and a half, I have dedicated my focus to the cutting-edge frontier of AI architecting <b>intelligent AI applications and autonomous agents</b> designed both to power high-impact, client-facing experiences and to radically optimize internal workflows and workforce productivity.</p>
+    
+    <h2>✨ Beyond the Code</h2>
     <ul>
-      <li>🧠 <b>AI Strengths:</b> Building production RAG systems, designing multi-agent workflows, and fine-tuning prompt engineering.</li>
-      <li>☁️ <b>Cloud & Systems:</b> Designing highly scalable, fault-tolerant infrastructures across both AWS and Azure ecosystems.</li>
-      <li>🛠️ <b>Product Mindset:</b> Solving real-world problems with highly responsive, intuitive user interfaces.</li>
+      <li>🔭 <b>Tech & Startups:</b> Permanently plugged into the latest tech breakthroughs. I have a deep fascination with unique, early-stage startups and analyzing the disruptive ideas shaping tomorrow's industries.</li>
+      <li>📈 <b>Current Deep Dives:</b> Actively expanding my engineering horizons into quantitative development, algorithmic trading models, and high-frequency financial systems.</li>
+      <li>🕵️‍♀️ <b>The Ultimate Sucker For:</b> A brilliant thriller or detective movie. If there is an intricate mystery, a brilliant puzzle, or a complex investigation to unravel, I am completely hooked.</li>
+      <li>🍕 <b>Food & Exploration:</b> A passionate local restaurant reviewer and culinary explorer—always on the hunt for unique dining concepts and exceptional flavor profiles.</li>
     </ul>
   </div>
 
