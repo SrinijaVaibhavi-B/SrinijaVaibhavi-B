@@ -5,7 +5,7 @@
 
 <!-- ANIMATION HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Full+Stack+%2B+AI+Engineer;Building+Intelligent+AI+Agents;Vibe+Coding+%26+Rapid+Prototyping;Architecting+Cloud+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;AI+Agents+Specialist;Cloud+Solutions+Architect" alt="Typing SVG" />
 </p>
 
 ---
