@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="Welcome to Class Google Classroom Header Black Pink Checkered Style.png" width="950" alt="Welcome Logo" />
-</p>
-<p align="center">
-  <img src="SVlogo.jpeg" width="220" alt="Srinija Vaibhavi Logo" />
+  <img src="White Minimalist Simple Aesthetic Name Twitter Header (1).png" width="950" alt="Welcome Logo" />
 </p>
 
 <p align="center">
