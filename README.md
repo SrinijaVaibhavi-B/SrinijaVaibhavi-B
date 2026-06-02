@@ -13,8 +13,8 @@
 <!-- THE DASHBOARD GRID -->
 <table border="0" width="100%">
   <tr>
-    <!-- LEFT COLUMN: ABOUT ME -->
-    <td width="55%" valign="top">
+    <!-- LEFT COLUMN: ABOUT ME (Locked to 60% width) -->
+    <td width="60%" valign="top">
       <h2>🚀 About Me</h2>
       <p>I am a <b>developer at heart</b> driven by a singular mission: building production-ready AI applications and practical tools that real users love interacting with.</p>
       <p>I blend deep frontend expertise with robust backend infrastructures, cloud architecture, and modern AI orchestration. I love <b>"vibe coding" with advanced AI tools</b> to rapidly prototype, iterate at lightning speed, and push the boundaries of what a single developer can build.</p>
@@ -24,33 +24,29 @@
         <li>🛠️ <b>Product Mindset:</b> Solving real-world problems with highly responsive, intuitive user interfaces.</li>
       </ul>
     </td>
-    <!-- RIGHT COLUMN: LIVE METRICS & VERIFIED CREDENTIALS -->
-    <td width="45%" valign="top" align="center">
+    
+    <!-- RIGHT COLUMN: CERTIFICATIONS & STATS (Locked to 40% width) -->
+    <td width="40%" valign="top" align="center">
       <h3>🏅 Cloud Credentials</h3>
-      <p align="center">
+      <div align="center">
         <!-- AWS Solutions Architect – Professional -->
         <a href="https://www.credly.com/badges/615fe3c3-ea7f-47e5-8e54-8064db540e21/public_url" target="_blank">
-          <img src="0_WN1yxw4ekEwhf_JM.png" width="90%" alt="AWS Solutions Architect Professional" />
+          <img src="0_WN1yxw4ekEwhf_JM.png" width="180" alt="AWS Solutions Architect Professional" style="margin-bottom: 12px; display: block;" />
         </a>
-        <br /><br />
-        
         <!-- AWS Developer – Associate -->
         <a href="https://www.credly.com/badges/e30aac93-117f-49cf-b183-69cccd4daefe/public_url" target="_blank">
-          <img src="AWSDA.png" width="90%" alt="AWS Developer Associate" />
+          <img src="imag.webp" width="180" alt="AWS Developer Associate" style="margin-bottom: 12px; display: block;" />
         </a>
-        <br /><br />
-        
         <!-- Azure AI Engineer Associate -->
         <a href="https://learn.microsoft.com/api/credentials/share/en-gb/SrinijaVaibhaviBoggavarapu-7271/11BAF18E12DBD84E?sharingId=F8CDC6459DD7DB81" target="_blank">
-          <img src="azure-ai-badge.png" width="90%" alt="Azure AI Engineer Associate" />
+          <img src="0_jqOYRjODRYnsIiEK.png" width="180" alt="Azure AI Engineer Associate" style="margin-bottom: 15px; display: block;" />
         </a>
-      </p>
+      </div>
       <br />
       <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="Stats Card" />
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ Comprehensive Tech Stack
