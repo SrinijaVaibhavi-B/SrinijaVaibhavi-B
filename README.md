@@ -1,5 +1,7 @@
 <p align="center">
   <img src="SVlogo.jpeg" width="320" alt="Welcome Logo" />
+</p>
+<p align="center">
   <img src="SVlogo.jpeg" width="320" alt="Srinija Vaibhavi Logo" />
 </p>
 
