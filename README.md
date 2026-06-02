@@ -30,13 +30,13 @@
       <p align="center">
         <!-- AWS Solutions Architect – Professional -->
         <a href="https://www.credly.com/badges/615fe3c3-ea7f-47e5-8e54-8064db540e21/public_url" target="_blank">
-          <img src="aws-sap-badge.png" width="90%" alt="AWS Solutions Architect Professional" />
+          <img src="AWSSA.png" width="90%" alt="AWS Solutions Architect Professional" />
         </a>
         <br /><br />
         
         <!-- AWS Developer – Associate -->
         <a href="https://www.credly.com/badges/e30aac93-117f-49cf-b183-69cccd4daefe/public_url" target="_blank">
-          <img src="aws-dva-badge.png" width="90%" alt="AWS Developer Associate" />
+          <img src="AWSDA.png" width="90%" alt="AWS Developer Associate" />
         </a>
         <br /><br />
         
